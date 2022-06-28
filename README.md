@@ -1,14 +1,12 @@
 # Flipkart Marketing Analytics
 Flipkart is currently the largest e-commerce retailer in India. To retain its position as India’s largest e-commerce retailer and stay ahead of competition, it is crucial for Flipkart to plan and utilise its marketing budget more efficiently. This can be achieved by designing customised marketing programs to target specific customer segments based on their identified underlying needs.
 
-**Objective**
-
+### Objective
 By analysing past customer transactional data, the purchase history can provide managerial insights on the customers. Customer segmentation helps to group customers with similar characteristics and allows us to calculate the Customer Lifetime Value (CLV), which provides an indication of how much value customers bring to the company in their entire stream of lifetime purchases. 
 
 With a better understanding of the customers and their value contribution, marketing strategies can then be designed for identified attractive segments while ensuring that marketing costs are allocated efficiently to reap the highest returns.
 
-**Research Question**
-
+### Research Question
 How should Flipkart segment its customers and design targeted marketing strategies?
 
 
