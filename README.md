@@ -11,7 +11,7 @@ How should Flipkart segment its customers and design targeted marketing strategi
 
 
 ## Project Resources
-This code documentation only provides a high level summary of the notebooks within the repository. More essential details and analysis conducted for this project are documented in the report linked [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/flipkart-marketing-analytics/master/docs/Flipkart-Marketing-Analytics_Report.pdf).
+This code documentation only provides a high level summary of the notebooks within the repository. More essential details and analysis conducted for this project are documented in the report linked [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/flipkart_marketing_analytics/master/docs/Flipkart-Marketing-Analytics_Report.pdf).
 
 
 ## Project Directory Structure
